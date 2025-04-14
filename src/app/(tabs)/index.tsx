@@ -1,6 +1,6 @@
 import {Text} from 'react-native';
 
 export default function Home() {
-    return <Text>Feed</Text>;
+    return <Text>Home</Text>;
     
 }
